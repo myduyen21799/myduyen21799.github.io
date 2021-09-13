@@ -252,7 +252,7 @@ p, address {
 /* Set width and height in JS */
 .placeholder {
   width: 100%;
-  min-height: 460px;
+  min-height: 400px;
   background-color: #556E5B;
 }
 
