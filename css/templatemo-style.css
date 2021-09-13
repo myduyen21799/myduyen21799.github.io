@@ -258,7 +258,7 @@ p, address {
 
 .placeholder-2 {
   width: 100%;
-  min-height: 100px;
+  min-height: 50px;
   background-color: #CFBEA5;
   position: relative;
   z-index: 998;
@@ -271,7 +271,7 @@ p, address {
 }
 
 .parallax-window-2 {
-  min-height: 100px;
+  min-height: 50px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
